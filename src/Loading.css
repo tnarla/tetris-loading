@@ -1,0 +1,6 @@
+.loading-container {
+  display: flex;
+
+  color: white;
+  font-size: 64px;
+}
